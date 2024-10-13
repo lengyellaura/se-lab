@@ -7,7 +7,7 @@ import java.util.Random;
 *
 * (Deliberately contains bugs.)
 */
-public class TorpedoStore {
+public class TorpedoStore { //minden ok :)
 
   Random generator = new Random();
 
